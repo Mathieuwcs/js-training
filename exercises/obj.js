@@ -6,7 +6,7 @@
  *for each primitive values
  * much like in primitive.js
  *
- * @notions Functions, Operators
+ * @notions Functions, Operators 
  */
 // Your code :
 const obj = {

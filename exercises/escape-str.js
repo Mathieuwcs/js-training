@@ -8,17 +8,18 @@
  */
 
 // Your code :
-escapeStr ("string");
+escapeStr ("string"); 
 
-escapeStr("""'"");
+escapeStr ("""'"");
 
-escapeStr ('"') ;
+escapeStr(""'"'");
 
 escapeStr("'`'") ;
 
-escapeStr ("'/'") ;
+escapeStr("'/'");
 
-escapeStr ("'\\'") ;
+escapeStr("'\\'");
+
 //* Begin of tests
 const assert = require('assert')
 
